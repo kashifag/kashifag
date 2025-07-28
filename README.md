@@ -8,7 +8,7 @@ Now I’m learning bioinformatics the *fun* way: one dataset, one bug, and one Y
 ### 💻 What I’m Trying to Do (and Sometimes Succeed At)
 
 - 🧬 Make sense of giant gene expression files (without crying)  
-- 🤖 Play with ML models to find patterns in omics data (and behave)  
+- 🤖 Play with ML models to find patterns in omics data
 - 📊 Turn confusing biological data into pretty plots  
 - 🧠 Learn new tools faster than I forget old ones
 
@@ -32,8 +32,8 @@ Learning mostly from:
 ### 🔧 Projects in Progress
 
 - 🚧 A simple pipeline for analyzing gene expression from public data  
-- 🧬 Trying to predict cancer subtypes using ML (and good vibes)  
-- 📁 Keeping my files organized (no promises though)
+- 🧬 Trying to predict cancer subtypes using ML 
+- 📁 Keeping my files organized
 
 ---
 

@@ -7,7 +7,7 @@ Now I’m learning bioinformatics the *fun* way: one dataset, one bug, and one Y
 
 ### 💻 What I’m Trying to Do
 
-- 🧬 Make sense of giant gene expression files (without crying)  
+- 🧬 Make sense of giant gene expression files 
 - 🤖 Play with ML models to find patterns in omics data
 - 📊 Turn confusing biological data into pretty plots  
 - 🧠 Learn new tools faster than I forget old ones

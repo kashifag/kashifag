@@ -31,7 +31,7 @@ Learning mostly from:
 
 ### 🔧 Projects in Progress
 
-- 🚧 A simple pipeline for analyzing gene expression from public data  
+- 🚧 AI-Powered Genomic Risk Scoring 
 - 🧬 Trying to predict cancer subtypes using ML 
 - 📁 Keeping my files organized
 

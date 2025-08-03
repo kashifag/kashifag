@@ -1,20 +1,20 @@
-### 🧬 Kashifa Ghazal | Self-Taught Bioinformatician in Progress ⚡️
+### Kashifa Ghazal | Self-Taught Bioinformatician in Progress
 
 Hi! I’m **Kashifa** — a life sciences grad who ran away from pipettes and fell into Python.  
 Now I’m learning bioinformatics the *fun* way: one dataset, one bug, and one YouTube crash course at a time.
 
 ---
 
-### 💻 What I’m Trying to Do
+### What I’m Trying to Do
 
-- 🧬 Make sense of giant gene expression files 
-- 🤖 Play with ML models to find patterns in omics data
-- 📊 Turn confusing biological data into pretty plots  
-- 🧠 Learn new tools faster than I forget old ones
+- Make sense of giant gene expression files 
+- Play with ML models to find patterns in omics data
+- Turn confusing biological data into pretty plots  
+- Learn new tools faster than I forget old ones
 
 ---
 
-### 🧰 My Beginner Toolkit
+### My Beginner Toolkit
 
 `Python` • `pandas` • `matplotlib` • `bokeh`  
 `Jupyter Notebooks` • `seaborn` • `scikit-learn` • `CTRL+Z` (my best friend) ...and a healthy fear of `conda environments`
@@ -29,15 +29,15 @@ Learning mostly from:
 
 ---
 
-### 🔧 Projects in Progress
+### Projects in Progress
 
-- 🚧 AI-Powered Genomic Risk Scoring 
-- 🧬 Trying to predict cancer subtypes using ML 
-- 📁 Keeping my files organized
+- AI-Powered Genomic Risk Scoring 
+- Trying to predict cancer subtypes using ML 
+- Keeping my files organized
 
 ---
 
-### 🎓 My (Chaotic) Learning Path
+### My (Chaotic) Learning Path
 
 - 100% self-taught (and proud!)  
 - My debugging process:  
@@ -48,15 +48,15 @@ Learning mostly from:
 
 ---
 
-### 🌈 Fun Facts
+### Fun Facts
 
-- My pipelines are powered by tea and determination ☕  
+- My pipelines are powered by tea and determination  
 - Most used file name: `final_final_REALLY_final_thisTime.ipynb`  
 - Code now, understand later™
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 If you're:
 - Learning bioinformatics from scratch  
